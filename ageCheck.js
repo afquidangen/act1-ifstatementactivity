@@ -7,6 +7,6 @@ function askAge () {
     } else if (age > 19) {
         alert("You are an adult.");
     } else {
-        alert("Invalid.");
+        alert("Invalid input.");
     }
 }
